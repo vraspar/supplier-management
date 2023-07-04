@@ -35,7 +35,19 @@ A Supplier Management System built with React, TypeScript, Node.js, Express, and
 
 ## Installation
 
-1. Install frontend dependencies:
+1. Clone the repository:
+
+```bash
+git clone https://github.com/vraspar/supplier-management.git
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd supplier-management
+```
+
+3. Install frontend dependencies:
 
 ```bash
 cd client
